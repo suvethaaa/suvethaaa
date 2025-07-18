@@ -1,4 +1,7 @@
-## Hi there 👋
+ Hi, I'm Suvetha!
+
+I'm a Web Developer with skills in HTML, CSS, JavaScript, and Java.
+My Resume : https://drive.google.com/file/d/1mk1c5kuPR1fGdeadDAz-k1tALQaX7e4T/view?usp=sharing
 
 <!--
 **suvethaaa/suvethaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
