@@ -5,22 +5,22 @@ I am currently pursuing my bachelor's degree in Artificial Intelligence and Data
 I like to learn a verse of technologies and tools that really make an impact on H-01;
 
 Worked with;
- Business Analytics
- Data Analytics
- Database (MySQL Server Management Studio , MySQL Workbench)
+ Business Analytics,
+ Data Analytics,
+ Database (MySQL Server Management Studio , MySQL Workbench).
  
 Specialized in;
- Data preprocessing 
- DashBoard making
- Report Generation in Analytics
- Data story Telling
+ Data preprocessing ,
+ DashBoard making,
+ Report Generation in Analytics,
+ Data story Telling.
 
 Tools learnt;
- Advanced Microsoft Excel
- Microsoft PowerBI Desktop and Servie
- Tableau
- MySQL
- Figma
+ Advanced Microsoft Excel,
+ Microsoft PowerBI Desktop and Servie,
+ Tableau,
+ MySQL,
+ Figma.
 
 Currently learning Data Structures and Algorithms using Java Programming
 
